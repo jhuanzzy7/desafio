@@ -1,0 +1,28 @@
+.diretora{
+    background-color: rgb(199, 106, 106);
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+}
+
+
+
+.quadrado_pai{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+}
+
+.quadrado_filho{
+    background-color: chocolate;
+}
+
+.cordenadora{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.primavera{
+    width: 75%;
+    
+}
